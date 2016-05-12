@@ -98,4 +98,4 @@ var playToFive = function() {
 
 };
 
-console.log(playToFive());
+playToFive();
